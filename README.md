@@ -11,7 +11,7 @@
 
 <a name="cc1"/>
 
-## 一、CacheCloud发展
+## 一、CacheCloud发展[sailfish]
 
 CacheCloud项目是从2016年以来一直在持续迭代开发,**如果你喜欢这个项目[CacheCloud试用版本](http://124.222.77.220:8080/admin/app/list),欢迎Star多多支持.**  
 
